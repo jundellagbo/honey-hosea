@@ -1,5 +1,19 @@
 ## Honey Hosea Academy Inc.
-- Enrollment and Billing System
+Enrollment and Billing System
+
+### Features
+
+- Registrar and Accountant Management
+- Grade Evaluation
+- Invoice
+- Payments and Discount
+- Statement of Account
+
+### Technologies
+
+-	Vue Js
+- PHP Native/Procedural
+
 
 ### Screenshot
 
